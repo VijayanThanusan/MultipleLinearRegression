@@ -1,1 +1,1 @@
-# linregression
+# MultipleLinearRegression
